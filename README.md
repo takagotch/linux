@@ -1,3 +1,2 @@
 ## linux
-https://github.com/torvalds
-
+https://github.com/torvalds/linux
